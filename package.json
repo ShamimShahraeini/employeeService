@@ -1,0 +1,20 @@
+{
+  "name": "backend-internship",
+  "version": "1.0.0",
+  "description": ":)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamim Shahraeini",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "redis": "^3.0.2",
+    "semicolon-datapreparator": "^1.0.0",
+    "semicolon-datavalidator": "^1.0.0",
+    "semicolon-requestlogger": "^1.0.1",
+    "semicolon-router": "^4.0.1",
+    "semicolon-server": "^4.0.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@ShamimShahraeini/semicolon-server",
+  "version": "4.0.2",
+  "description": "It's a simple server implementation :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "author": "Shamim Shahraeini",
+  "repository": {
+    "url": "git://github.com/ShamimShahraeini/semicolon-server.git"
+  },
+  "license": "MIT"
+}

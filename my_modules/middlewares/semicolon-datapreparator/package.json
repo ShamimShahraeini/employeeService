@@ -1,0 +1,39 @@
+{
+  "_from": "semicolon-datapreparator",
+  "_id": "semicolon-datapreparator@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-LyHukUBzHWTtntlV0PjuAPLpZpAVg6NKHpmjYa9hbEUCRD9XgJBx42GB/gRqcffmP6xPeUNYy8sjj9mdaljULQ==",
+  "_location": "/semicolon-datapreparator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "semicolon-datapreparator",
+    "name": "semicolon-datapreparator",
+    "escapedName": "semicolon-datapreparator",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/semicolon-datapreparator/-/semicolon-datapreparator-1.0.0.tgz",
+  "_shasum": "c65a57ea308ca4a92cccd78a381c56001a2654fa",
+  "_spec": "semicolon-datapreparator",
+  "_where": "/home/shamimshahraeeni/Documents/backendInternship/Project/hw1/my_modules",
+  "author": {
+    "name": "Semicolon group"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "It's a simple middleware to parse the body of each request :)",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "semicolon-datapreparator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
