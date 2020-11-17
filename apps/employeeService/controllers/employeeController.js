@@ -58,16 +58,7 @@ class EmployeeController {
                 result
             }
             ok(response, responseBody)
-        }, (err) => {
-
-            const responseBody = {
-                status: 'Not Found',
-                message: 'Employee not found.'
-            }
-            error(response, responseBody)
         }).catch((err) => {
-
-            console.log(err);
             const responseBody = {
                 status: 'Not Found',
                 message: ((err) ? err : 'Employee not found.')
@@ -177,13 +168,6 @@ class EmployeeController {
                 result: result
             }
             ok(response, responseBody)
-        }, (err) => {
-
-            const responseBody = {
-                status: 'Not Found',
-                message: 'Employee not found.'
-            }
-            error(response, responseBody)
         }).catch((err) => {
 
             console.log(err);
